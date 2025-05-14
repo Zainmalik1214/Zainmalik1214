@@ -4,13 +4,10 @@ Hi 👋 My name is Zain Malik
 Frontend Developer
 ------------------
 
-Aspiring Frontend Developer eager to bring creative visions to life. Proficient in HTML, CSS, JavaScript, React, PHP, SQL, and MySQL with a commitment to learning and crafting engaging user experiences.
+Aspiring Frontend Developer eager to bring creative visions to life. Proficient in HTML, CSS, JavaScript, PHP, SQL, and MySQL with a commitment to learning and crafting engaging user experiences.
 
 * 🌍  I'm based in Lahore
-* 🖥️  See my portfolio at [Portfolio](http://toqir-ahmad.github.io/PortFolio/)
-* ✉️  You can contact me at [toqirahmad7@gmail.com](mailto:toqirahmad7@gmail.com)
-* 🧠  I'm learning Web Development | REACT | MUI | NEXT JS | PHP | LARAVEL | MySQL | Docker 
-* 🤝  I'm open to collaborating on Web Games | Website Development | Management Tools
+* 🧠  I'm learning Web Development | REACT LARAVEL | MySQL | 
 
 ### Skills
 
